@@ -1,1 +1,1 @@
-# AppDev.and.EmergingTech.Activities
+Activities in Application Development and Emerging Technologies
